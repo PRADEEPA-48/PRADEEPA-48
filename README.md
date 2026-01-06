@@ -104,5 +104,11 @@
 
 ## 🌐 Connect With Me  
 
-<
+<p align="center">
+<a href="https://github.com/PRADEEPA-48"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+<a href="http://linkedin.com/in/pradeepa-p-a0a61a2a5"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.codechef.com/users/kit27csbs40"><img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"></a>
+</p>
+
+---
 
