@@ -57,10 +57,4 @@ Aspiring Full Stack Developer focused on building
 
 </div>
 
-<style>
-@keyframes accentMove {
-  0% { background-position: 0% 50%; }
-  100% { background-position: 200% 50%; }
-}
-</style>
 
