@@ -1,8 +1,15 @@
-# 👋 Hi, I'm Pradeepa!  
+<!-- HEADER SECTION WITH BACKGROUND -->
+<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 35px; border-radius: 12px;">
 
-🎓 **B.Tech – Computer Science & Business Systems (CSBS)**  
-💻 **Aspiring Full Stack Developer**  
-🚀 **Passionate about Web Development & Real-World Projects**
+<h1 style="color: white;">👋 Hi, I'm Pradeepa!</h1>
+
+<p style="color: #f1f1f1; font-size: 16px;">
+🎓 B.Tech – Computer Science & Business Systems (CSBS) <br>
+💻 Aspiring Full Stack Developer <br>
+🚀 Passionate about Web Development & Real-World Projects
+</p>
+
+</div>
 
 ---
 
@@ -19,62 +26,61 @@
 ## 🛠 Tech Stack  
 
 ### 💻 Programming Languages  
-- ☕ Java  
-- 🐍 Python  
-- 💡 C  
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
 
 ### 🎨 Frontend Development  
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript  
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 
 ### 🗄 Database  
-- 🐬 MySQL  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
 
-### 🔧 Tools & Platforms  
-- 🧩 Git  
-- 🌍 GitHub  
-- 🖥 VS Code  
+### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
 
 ---
 
 ## 📂 Projects  
 
 ### 🎉 Event Management System  
-✨ A responsive web application for **event decoration bookings**  
+✨ Responsive web app for **event decoration bookings**
 
 **Features:**  
 - 👤 User & Admin authentication  
-- 📝 Event booking form  
+- 📝 Booking form  
 - 📋 Event listings  
 - 📱 Fully responsive design  
 
 **Tech Used:**  
-`HTML` `CSS` `JavaScript` `Bootstrap`  
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
 ---
 
 ### ✅ To-Do App  
-🗒 A simple and efficient task management app  
+🗒 Simple and efficient task management app  
 
-**Features:**  
 - ➕ Add tasks  
 - ❌ Delete tasks  
 - 📱 Responsive UI  
 
-📌 *Built during my internship*  
+📌 *Built during my internship*
 
 ---
 
-## 🧑‍💻 Internship Experience  
+## 🧑‍💻 Internship  
 
 ### 💼 Full Stack Intern  
 **LearnLogicify Technologies** *(June 2025)*  
 
-- 🔹 Worked with **HTML, CSS, JavaScript & Bootstrap**  
-- 🔹 Built **mini projects every week**  
-- 🔹 Learned **Git & GitHub workflow**  
-- 🔹 Improved real-world development skills  
+- 🔹 Worked with HTML, CSS, JavaScript & Bootstrap  
+- 🔹 Built weekly mini-projects  
+- 🔹 Learned Git & GitHub workflow  
+- 🔹 Gained real-world development experience  
 
 ---
 
@@ -82,32 +88,21 @@
 
 - ⏱ 24-Hour Hackathon  
 - ⏱ 12-Hour Hackathon  
-- 🧠 **TNWISE 2025 Hackathon**  
+- 🧠 **TNWISE 2025 Hackathon**
 
 ---
 
 ## 📜 Certifications  
 
-- 🏅 **Infosys Springboard**  
-  - Java  
-  - Python  
-  - Web Development  
+- 🏅 Infosys Springboard  
+  - Java | Python | Web Development  
 
-- 🎓 **Coursera**  
-  - Algorithms  
-  - Python  
-  - WordPress  
+- 🎓 Coursera  
+  - Algorithms | Python | WordPress  
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 🐙 **GitHub:** [PRADEEPA-48](https://github.com/PRADEEPA-48)  
-- 💼 **LinkedIn:** [Pradeepa P](http://linkedin.com/in/pradeepa-p-a0a61a2a5)  
-- 🍴 **CodeChef:** [kit27csbs40](https://www.codechef.com/users/kit27csbs40)  
-
----
-
-⭐ *If you like my work, don’t forget to star my repositories!*  
-💙 *Let’s build and grow together!*  
+<
 
