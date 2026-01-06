@@ -1,15 +1,29 @@
-<!-- ===== PROFILE HEADER ===== -->
+<!-- ===== PROFESSIONAL HEADER WITH ANIMATED BACKGROUND ===== -->
 <div align="center">
 
-<!-- Animated Typing Name -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pradeepa+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;CSBS+Undergraduate" />
+<div style="
+background: linear-gradient(-45deg, #ffd1dc, #ffe4ec, #ffc1d9, #ffeaf1);
+background-size: 400% 400%;
+animation: gradientBG 8s ease infinite;
+padding: 40px;
+border-radius: 14px;
+">
 
-<br/>
+<h1 style="
+color: #3b0a2a;
+font-weight: 800;
+font-size: 36px;
+margin-bottom: 10px;
+">
+👋 Hi, I'm Pradeepa
+</h1>
 
-<!-- Subtitle Box -->
-<div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 18px 30px; border-radius: 12px; width: fit-content;">
-
-<p style="color: white; font-size: 15px; line-height: 1.6;">
+<p style="
+color: #4a1c35;
+font-size: 15px;
+line-height: 1.6;
+margin: 0;
+">
 🎓 B.Tech – Computer Science & Business Systems <br/>
 💻 Aspiring Full Stack Developer <br/>
 🚀 Building real-world web applications
@@ -18,6 +32,16 @@
 </div>
 
 </div>
+
+<!-- Animation definition -->
+<style>
+@keyframes gradientBG {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
 
 ---
 
