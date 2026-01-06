@@ -1,41 +1,40 @@
-<!-- ===== SIGNATURE PROFILE BANNER ===== -->
+<!-- ===== MODERN DARK PROFILE BANNER ===== -->
 <div align="center">
 
 <div style="
-background: radial-gradient(circle at top left, #ffe1ec, #fff5f9, #ffd6e6);
-padding: 50px 35px;
-border-radius: 18px;
-border: 1px solid #f3c3d5;
-box-shadow: 0 12px 30px rgba(0,0,0,0.1);
-max-width: 920px;
+background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+padding: 50px 30px;
+border-radius: 20px;
+max-width: 950px;
+box-shadow: 0 15px 40px rgba(0,0,0,0.6);
 ">
 
 <h1 style="
-font-size: 40px;
+color: #eaeaea;
+font-size: 42px;
 font-weight: 900;
-letter-spacing: 1.2px;
-color: #2b0f1f;
+letter-spacing: 1.5px;
 margin-bottom: 6px;
 ">
-PRADEEPA
+👩‍💻 Pradeepa
 </h1>
 
 <p style="
+color: #b8c1ec;
 font-size: 15px;
-color: #7a2f55;
-margin-bottom: 14px;
-letter-spacing: 0.6px;
+letter-spacing: 1px;
+margin-bottom: 16px;
 ">
-B.Tech | Computer Science & Business Systems
+B.Tech – Computer Science & Business Systems
 </p>
 
 <p style="
+color: #f1f1f1;
 font-size: 16px;
-color: #4d1d39;
 line-height: 1.8;
 ">
-Future-ready Full Stack Developer <br/>
-Designing scalable, clean & user-focused web experiences
+Crafting elegant web interfaces <br/>
+Turning ideas into scalable digital products
 </p>
 
 </div>
