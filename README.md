@@ -1,16 +1,15 @@
-<!-- ===== NAME BACKGROUND BANNER (HAREINI STYLE) ===== -->
+<!-- ===== LIGHT WAVE PROFILE HEADER (PHOTO STYLE) ===== -->
 <div align="center">
 
 <div style="
-background:#b9aeb6;
-padding: 50px 20px 0;
-border-radius: 6px;
-max-width: 980px;
+background:#b9adb6;
+padding:50px 20px 0;
+width:100%;
 ">
 
 <h1 style="
 color:#6a1b9a;
-font-size:40px;
+font-size:42px;
 font-weight:800;
 letter-spacing:1px;
 margin-bottom:20px;
@@ -18,18 +17,28 @@ margin-bottom:20px;
 Pradeepa
 </h1>
 
-<!-- WAVE BOTTOM -->
-<svg viewBox="0 0 1440 90" xmlns="http://www.w3.org/2000/svg">
+<p style="
+color:#2f2f2f;
+font-size:16px;
+letter-spacing:0.5px;
+margin-bottom:30px;
+">
+Building clean, scalable & user-focused web solutions
+</p>
+
+<!-- SOFT BOTTOM CURVE (LIKE IMAGE) -->
+<svg viewBox="0 0 1440 100" xmlns="http://www.w3.org/2000/svg">
   <path fill="#8f8790"
-    d="M0,40L80,45C160,50,320,60,480,58
-       C640,56,800,42,960,40
-       C1120,38,1280,48,1360,52
-       L1440,56L1440,100L0,100Z">
+    d="M0,60
+       C240,80 480,40 720,45
+       C960,50 1200,80 1440,60
+       L1440,120 L0,120 Z">
   </path>
 </svg>
 
 </div>
 </div>
+
 
 ---
 
