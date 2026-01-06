@@ -1,47 +1,57 @@
-<!-- ===== PROFESSIONAL HEADER WITH ANIMATED BACKGROUND ===== -->
+<!-- ===== UNIQUE PROFESSIONAL HEADER ===== -->
 <div align="center">
 
 <div style="
-background: linear-gradient(-45deg, #ffd1dc, #ffe4ec, #ffc1d9, #ffeaf1);
-background-size: 400% 400%;
-animation: gradientBG 8s ease infinite;
-padding: 40px;
-border-radius: 14px;
+background: linear-gradient(120deg, #ffe6ee, #fff0f5, #ffdbe8);
+background-size: 300% 300%;
+animation: softMove 10s ease infinite;
+padding: 45px 30px;
+border-radius: 16px;
+border: 1px solid #f2c6d6;
+box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+max-width: 900px;
 ">
 
 <h1 style="
-color: #3b0a2a;
-font-weight: 800;
-font-size: 36px;
-margin-bottom: 10px;
+color: #2d0f1f;
+font-weight: 900;
+font-size: 38px;
+letter-spacing: 1px;
+margin-bottom: 8px;
 ">
-👋 Hi, I'm Pradeepa
+PRADEEPA
 </h1>
+
+<p style="
+color: #6b2a4a;
+font-size: 14.5px;
+letter-spacing: 0.5px;
+margin-bottom: 14px;
+">
+B.Tech – Computer Science & Business Systems
+</p>
 
 <p style="
 color: #4a1c35;
 font-size: 15px;
-line-height: 1.6;
+line-height: 1.7;
 margin: 0;
 ">
-🎓 B.Tech – Computer Science & Business Systems <br/>
-💻 Aspiring Full Stack Developer <br/>
-🚀 Building real-world web applications
+Aspiring Full Stack Developer <br/>
+Focused on building clean & scalable web applications
 </p>
 
 </div>
 
 </div>
 
-<!-- Animation definition -->
 <style>
-@keyframes gradientBG {
+@keyframes softMove {
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
   100% { background-position: 0% 50%; }
 }
 </style>
-
 
 ---
 
@@ -149,5 +159,4 @@ margin: 0;
 ⭐ <b>If you like my work, consider starring my repositories</b><br/>
 💙 <i>Let’s build impactful solutions together!</i>
 </p>
-
 
