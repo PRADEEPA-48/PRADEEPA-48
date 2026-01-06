@@ -1,48 +1,44 @@
-<!-- ===== UNIQUE PROFESSIONAL HEADER ===== -->
+<!-- ===== SIGNATURE PROFILE BANNER ===== -->
 <div align="center">
 
 <div style="
-background: linear-gradient(120deg, #ffe6ee, #fff0f5, #ffdbe8);
-background-size: 300% 300%;
-animation: softMove 10s ease infinite;
-padding: 45px 30px;
-border-radius: 16px;
-border: 1px solid #f2c6d6;
-box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-max-width: 900px;
+background: radial-gradient(circle at top left, #ffe1ec, #fff5f9, #ffd6e6);
+padding: 50px 35px;
+border-radius: 18px;
+border: 1px solid #f3c3d5;
+box-shadow: 0 12px 30px rgba(0,0,0,0.1);
+max-width: 920px;
 ">
 
 <h1 style="
-color: #2d0f1f;
+font-size: 40px;
 font-weight: 900;
-font-size: 38px;
-letter-spacing: 1px;
-margin-bottom: 8px;
+letter-spacing: 1.2px;
+color: #2b0f1f;
+margin-bottom: 6px;
 ">
 PRADEEPA
 </h1>
 
 <p style="
-color: #6b2a4a;
-font-size: 14.5px;
-letter-spacing: 0.5px;
+font-size: 15px;
+color: #7a2f55;
 margin-bottom: 14px;
+letter-spacing: 0.6px;
 ">
-B.Tech – Computer Science & Business Systems
+B.Tech | Computer Science & Business Systems
 </p>
 
 <p style="
-color: #4a1c35;
-font-size: 15px;
-line-height: 1.7;
-margin: 0;
+font-size: 16px;
+color: #4d1d39;
+line-height: 1.8;
 ">
-Aspiring Full Stack Developer <br/>
-Focused on building clean & scalable web applications
+Future-ready Full Stack Developer <br/>
+Designing scalable, clean & user-focused web experiences
 </p>
 
 </div>
-
 </div>
 
 ---
