@@ -1,34 +1,33 @@
-<!-- ===== LIGHT WAVE PROFILE HEADER (PHOTO STYLE) ===== -->
+<!-- ================= HERO HEADER ================= -->
 <div align="center">
 
 <div style="
-background:#b9adb6;
-padding:50px 20px 0;
+background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+padding:60px 20px 0;
 width:100%;
 ">
 
 <h1 style="
-color:#6a1b9a;
-font-size:42px;
+color:#ffffff;
+font-size:44px;
 font-weight:800;
 letter-spacing:1px;
-margin-bottom:20px;
+margin-bottom:16px;
 ">
-Pradeepa
+Hi, I'm Pradeepa 👋
 </h1>
 
 <p style="
-color:#2f2f2f;
-font-size:16px;
+color:#dbeafe;
+font-size:17px;
 letter-spacing:0.5px;
-margin-bottom:30px;
+margin-bottom:28px;
 ">
-Building clean, scalable & user-focused web solutions
+CSBS Undergraduate • Web Developer • Problem Solver
 </p>
 
-<!-- SOFT BOTTOM CURVE (LIKE IMAGE) -->
 <svg viewBox="0 0 1440 100" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#8f8790"
+  <path fill="#ffffff"
     d="M0,60
        C240,80 480,40 720,45
        C960,50 1200,80 1440,60
@@ -39,89 +38,91 @@ Building clean, scalable & user-focused web solutions
 </div>
 </div>
 
-
 ---
 
-## 🚀 About Me  
+## 👩‍💻 About Me  
 
-- 🎯 CSBS undergraduate with strong **problem-solving mindset**  
-- 💡 Passionate about **Web Development & Programming**  
-- 🛠 Learning by building **real-world & industry-level projects**  
-- 🤝 Active participant in **Hackathons & Tech Events**  
-- 🌱 Continuously improving skills & exploring new technologies  
+I'm a **Computer Science & Business Systems (CSBS)** undergraduate with a strong interest in  
+**building clean, scalable and user-centric web applications**.
+
+- 🎯 Strong foundation in **problem solving & programming**
+- 💻 Focused on **Frontend & Full-Stack development**
+- 🚀 Love working on **real-world, industry-oriented projects**
+- 🤝 Active participant in **Hackathons & Tech Events**
+- 🌱 Constantly learning and improving my tech stack  
 
 ---
 
 ## 🛠 Tech Stack  
 
-### 💻 Languages  
+### 💻 Programming Languages  
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-0A1AFF?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-1E3A8A?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend  
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-1E40AF?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
 ### 🗄 Database  
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔧 Tools  
+### 🔧 Tools & Platforms  
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+<img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS%20Code-1D4ED8?style=for-the-badge&logo=visual-studio-code"/>
 </p>
 
 ---
 
-## 📂 Projects  
+## 📂 Featured Projects  
 
 ### 🎉 Event Management System  
 **Responsive Event Decoration Booking Platform**
 
-✔ User & Admin authentication  
-✔ Event booking & listing  
-✔ Mobile-friendly UI  
+✔ User & Admin Authentication  
+✔ Event Booking & Management  
+✔ Fully Responsive UI  
 
-**Tech:** `HTML` `CSS` `JavaScript` `Bootstrap`
+**Tech Used:** `HTML` `CSS` `JavaScript` `Bootstrap`
 
 ---
 
 ### ✅ To-Do Application  
-**Minimal & efficient task manager**
+**Minimal & Efficient Task Manager**
 
-✔ Add / delete tasks  
-✔ Clean responsive UI  
+✔ Add / Delete Tasks  
+✔ Clean & Responsive Interface  
 
-📌 *Developed during internship*
+📌 *Developed during Internship*
 
 ---
 
-## 🧑‍💻 Internship  
+## 🧑‍💼 Internship Experience  
 
 ### 💼 Full Stack Intern  
-**LearnLogicify Technologies** *(June 2025)*  
+**LearnLogicify Technologies** | *June 2025*
 
-- Developed frontend using HTML, CSS, JavaScript & Bootstrap  
-- Built **weekly mini-projects**  
-- Practiced **Git & GitHub collaboration workflow**  
-- Gained real-world development exposure  
+- Built frontend interfaces using **HTML, CSS, JavaScript & Bootstrap**
+- Developed **weekly mini-projects**
+- Practiced **Git & GitHub collaboration**
+- Gained real-world development experience  
 
 ---
 
-## 🏆 Hackathons  
+## 🏆 Hackathons & Events  
 
 - 🕒 24-Hour Hackathon  
 - 🕒 12-Hour Hackathon  
-- 🧠 **TNWISE 2025 Hackathon**
+- 🧠 **TNWISE 2025 Hackathon**  
 
 ---
 
@@ -135,9 +136,15 @@ Building clean, scalable & user-focused web solutions
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://github.com/PRADEEPA-48"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="http://linkedin.com/in/pradeepa-p-a0a61a2a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://www.codechef.com/users/kit27csbs40"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/></a>
+<a href="https://github.com/PRADEEPA-48">
+<img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="http://linkedin.com/in/pradeepa-p-a0a61a2a5">
+<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/kit27csbs40">
+<img src="https://img.shields.io/badge/CodeChef-1E3A8A?style=for-the-badge"/>
+</a>
 </p>
 
 ---
@@ -146,5 +153,4 @@ Building clean, scalable & user-focused web solutions
 ⭐ <b>If you like my work, consider starring my repositories</b><br/>
 💙 <i>Let’s build impactful solutions together!</i>
 </p>
-
 
