@@ -1,85 +1,72 @@
-<!-- ================= HERO HEADER ================= -->
+<!-- ================= HERO SECTION ================= -->
 <div align="center">
 
-<div style="
-background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-padding:60px 20px 0;
-width:100%;
-">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pradeepa+%F0%9F%91%8B;CSBS+Undergraduate;Web+Developer+%7C+Problem+Solver;Building+Clean+%26+Scalable+Apps" />
 
-<h1 style="
-color:#ffffff;
-font-size:44px;
-font-weight:800;
-letter-spacing:1px;
-margin-bottom:16px;
-">
-Hi, I'm Pradeepa 👋
-</h1>
+<br/><br/>
 
-<p style="
-color:#dbeafe;
-font-size:17px;
-letter-spacing:0.5px;
-margin-bottom:28px;
-">
-CSBS Undergraduate • Web Developer • Problem Solver
-</p>
+<img src="https://komarev.com/ghpvc/?username=PRADEEPA-48&label=Profile%20Views&color=0ea5e9&style=flat" />
 
-<svg viewBox="0 0 1440 100" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#ffffff"
-    d="M0,60
-       C240,80 480,40 720,45
-       C960,50 1200,80 1440,60
-       L1440,120 L0,120 Z">
-  </path>
-</svg>
-
-</div>
 </div>
 
 ---
 
 ## 👩‍💻 About Me  
 
-I'm a **Computer Science & Business Systems (CSBS)** undergraduate with a strong interest in  
-**building clean, scalable and user-centric web applications**.
+💡 I’m a **Computer Science & Business Systems (CSBS)** undergraduate  
+focused on **designing and developing clean, scalable & user-centric web applications**.
 
-- 🎯 Strong foundation in **problem solving & programming**
-- 💻 Focused on **Frontend & Full-Stack development**
-- 🚀 Love working on **real-world, industry-oriented projects**
-- 🤝 Active participant in **Hackathons & Tech Events**
-- 🌱 Constantly learning and improving my tech stack  
+- 🎯 Strong in **logical thinking & problem solving**
+- 💻 Passionate about **Frontend & Full-Stack Development**
+- 🚀 Building **real-world & industry-level projects**
+- 🤝 Active **Hackathon participant**
+- 🌱 Learning every day & improving my craft  
+
+---
+
+## 🧠 What I’m Currently Doing  
+
+- 🔭 Working on **Frontend-heavy projects**
+- 📚 Improving **DSA & core programming**
+- 🧪 Experimenting with **UI/UX & animations**
+- 🛠 Strengthening **Git & GitHub workflows**
 
 ---
 
 ## 🛠 Tech Stack  
 
-### 💻 Programming Languages  
+### 💻 Languages  
 <p>
-<img src="https://img.shields.io/badge/Java-0A1AFF?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-1E3A8A?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=java&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=38BDF8"/>
 </p>
 
 ### 🎨 Frontend  
 <p>
-<img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-1E40AF?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=38BDF8"/>
 </p>
 
-### 🗄 Database  
+### 🗄 Database & Tools  
 <p>
-<img src="https://img.shields.io/badge/MySQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8"/>
 </p>
 
-### 🔧 Tools & Platforms  
-<p>
-<img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS%20Code-1D4ED8?style=for-the-badge&logo=visual-studio-code"/>
-</p>
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PRADEEPA-48&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRADEEPA-48&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
@@ -89,10 +76,10 @@ I'm a **Computer Science & Business Systems (CSBS)** undergraduate with a strong
 **Responsive Event Decoration Booking Platform**
 
 ✔ User & Admin Authentication  
-✔ Event Booking & Management  
-✔ Fully Responsive UI  
+✔ Event Booking & Listing  
+✔ Mobile-Friendly UI  
 
-**Tech Used:** `HTML` `CSS` `JavaScript` `Bootstrap`
+**Tech:** `HTML` `CSS` `JavaScript` `Bootstrap`
 
 ---
 
@@ -100,50 +87,50 @@ I'm a **Computer Science & Business Systems (CSBS)** undergraduate with a strong
 **Minimal & Efficient Task Manager**
 
 ✔ Add / Delete Tasks  
-✔ Clean & Responsive Interface  
+✔ Clean & Responsive Design  
 
 📌 *Developed during Internship*
 
 ---
 
-## 🧑‍💼 Internship Experience  
+## 🧑‍💼 Internship  
 
 ### 💼 Full Stack Intern  
-**LearnLogicify Technologies** | *June 2025*
+**LearnLogicify Technologies** *(June 2025)*  
 
-- Built frontend interfaces using **HTML, CSS, JavaScript & Bootstrap**
-- Developed **weekly mini-projects**
-- Practiced **Git & GitHub collaboration**
-- Gained real-world development experience  
+- Developed responsive frontend interfaces  
+- Built weekly mini-projects  
+- Used **Git & GitHub collaboration**
+- Gained real-world development exposure  
 
 ---
 
-## 🏆 Hackathons & Events  
+## 🏆 Hackathons  
 
 - 🕒 24-Hour Hackathon  
 - 🕒 12-Hour Hackathon  
-- 🧠 **TNWISE 2025 Hackathon**  
+- 🧠 **TNWISE 2025 Hackathon**
 
 ---
 
 ## 📜 Certifications  
 
-- 🏅 **Infosys Springboard** – Java, Python, Web Development  
-- 🎓 **Coursera** – Algorithms, Python, WordPress  
+- 🏅 Infosys Springboard – Java, Python, Web Development  
+- 🎓 Coursera – Algorithms, Python, WordPress  
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Let’s Connect  
 
 <p align="center">
 <a href="https://github.com/PRADEEPA-48">
-<img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 <a href="http://linkedin.com/in/pradeepa-p-a0a61a2a5">
-<img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 <a href="https://www.codechef.com/users/kit27csbs40">
-<img src="https://img.shields.io/badge/CodeChef-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CodeChef-0F172A?style=for-the-badge&logoColor=38BDF8"/>
 </a>
 </p>
 
@@ -151,6 +138,6 @@ I'm a **Computer Science & Business Systems (CSBS)** undergraduate with a strong
 
 <p align="center">
 ⭐ <b>If you like my work, consider starring my repositories</b><br/>
-💙 <i>Let’s build impactful solutions together!</i>
+💙 <i>Let’s build something impactful together!</i>
 </p>
 
